@@ -1,0 +1,1413 @@
+Customer_ID,Customer_Segment
+CUST-0349,Consumer
+CUST-0412,Corporate
+CUST-0447,Corporate
+CUST-0186,Corporate
+CUST-0157,Consumer
+CUST-0333,Consumer
+CUST-0383,Consumer
+CUST-0117,Corporate
+CUST-0084,Consumer
+CUST-0191,Small Business
+CUST-0485,Small Business
+CUST-0290,Corporate
+CUST-0208,Corporate
+CUST-0174,Consumer
+CUST-0286,Consumer
+CUST-0278,Corporate
+CUST-0019,Small Business
+CUST-0469,Corporate
+CUST-0158,Consumer
+CUST-0416,Corporate
+CUST-0007,Corporate
+CUST-0358,Consumer
+CUST-0144,Consumer
+CUST-0467,Corporate
+CUST-0304,Small Business
+CUST-0374,Corporate
+CUST-0083,Consumer
+CUST-0197,Consumer
+CUST-0209,Consumer
+CUST-0402,Consumer
+CUST-0320,Consumer
+CUST-0343,Consumer
+CUST-0267,Small Business
+CUST-0363,Corporate
+CUST-0127,Corporate
+CUST-0400,Consumer
+CUST-0336,Consumer
+CUST-0219,Consumer
+CUST-0476,Corporate
+CUST-0148,Consumer
+CUST-0419,Consumer
+CUST-0456,Corporate
+CUST-0401,Consumer
+CUST-0316,Corporate
+CUST-0309,Consumer
+CUST-0319,Corporate
+CUST-0255,Consumer
+CUST-0206,Consumer
+CUST-0283,Consumer
+CUST-0257,Corporate
+CUST-0058,Consumer
+CUST-0414,Consumer
+CUST-0156,Consumer
+CUST-0217,Consumer
+CUST-0247,Corporate
+CUST-0270,Consumer
+CUST-0171,Corporate
+CUST-0013,Consumer
+CUST-0311,Corporate
+CUST-0221,Corporate
+CUST-0021,Consumer
+CUST-0433,Small Business
+CUST-0015,Consumer
+CUST-0199,Corporate
+CUST-0204,Consumer
+CUST-0183,Consumer
+CUST-0271,Consumer
+CUST-0150,Corporate
+CUST-0498,Corporate
+CUST-0018,Consumer
+CUST-0056,Consumer
+CUST-0432,Corporate
+CUST-0122,Consumer
+CUST-0024,Consumer
+CUST-0296,Corporate
+CUST-0228,Corporate
+CUST-0159,Corporate
+CUST-0446,Consumer
+CUST-0497,Corporate
+CUST-0148,Small Business
+CUST-0199,Consumer
+CUST-0261,Consumer
+CUST-0430,Consumer
+CUST-0392,Consumer
+CUST-0490,Corporate
+CUST-0468,Consumer
+CUST-0023,Consumer
+CUST-0451,Consumer
+CUST-0309,Corporate
+CUST-0203,Small Business
+CUST-0090,Small Business
+CUST-0123,Consumer
+CUST-0066,Corporate
+CUST-0060,Consumer
+CUST-0371,Consumer
+CUST-0397,Small Business
+CUST-0065,Corporate
+CUST-0237,Consumer
+CUST-0496,Corporate
+CUST-0328,Small Business
+CUST-0138,Consumer
+CUST-0128,Consumer
+CUST-0222,Corporate
+CUST-0462,Consumer
+CUST-0145,Small Business
+CUST-0399,Small Business
+CUST-0310,Consumer
+CUST-0417,Corporate
+CUST-0048,Consumer
+CUST-0417,Consumer
+CUST-0049,Consumer
+CUST-0129,Consumer
+CUST-0043,Consumer
+CUST-0438,Consumer
+CUST-0415,Consumer
+CUST-0281,Corporate
+CUST-0448,Small Business
+CUST-0098,Consumer
+CUST-0181,Small Business
+CUST-0162,Consumer
+CUST-0199,Small Business
+CUST-0216,Consumer
+CUST-0378,Consumer
+CUST-0003,Consumer
+CUST-0269,Small Business
+CUST-0241,Consumer
+CUST-0143,Corporate
+CUST-0203,Corporate
+CUST-0268,Small Business
+CUST-0059,Corporate
+CUST-0422,Small Business
+CUST-0229,Corporate
+CUST-0018,Small Business
+CUST-0077,Corporate
+CUST-0092,Corporate
+CUST-0054,Consumer
+CUST-0297,Small Business
+CUST-0325,Consumer
+CUST-0186,Consumer
+CUST-0314,Consumer
+CUST-0442,Consumer
+CUST-0276,Corporate
+CUST-0181,Consumer
+CUST-0152,Corporate
+CUST-0445,Consumer
+CUST-0277,Small Business
+CUST-0201,Consumer
+CUST-0475,Corporate
+CUST-0339,Consumer
+CUST-0386,Small Business
+CUST-0405,Consumer
+CUST-0322,Consumer
+CUST-0235,Small Business
+CUST-0380,Small Business
+CUST-0375,Corporate
+CUST-0124,Small Business
+CUST-0177,Small Business
+CUST-0356,Consumer
+CUST-0375,Consumer
+CUST-0014,Consumer
+CUST-0445,Small Business
+CUST-0106,Consumer
+CUST-0316,Consumer
+CUST-0131,Small Business
+CUST-0109,Corporate
+CUST-0068,Consumer
+CUST-0372,Consumer
+CUST-0265,Small Business
+CUST-0226,Corporate
+CUST-0078,Consumer
+CUST-0251,Consumer
+CUST-0496,Consumer
+CUST-0493,Consumer
+CUST-0205,Small Business
+CUST-0277,Consumer
+CUST-0425,Corporate
+CUST-0452,Corporate
+CUST-0239,Consumer
+CUST-0389,Consumer
+CUST-0207,Consumer
+CUST-0382,Small Business
+CUST-0367,Corporate
+CUST-0426,Small Business
+CUST-0170,Small Business
+CUST-0477,Consumer
+CUST-0070,Corporate
+CUST-0007,Consumer
+CUST-0173,Corporate
+CUST-0317,Consumer
+CUST-0227,Consumer
+CUST-0253,Consumer
+CUST-0140,Consumer
+CUST-0341,Corporate
+CUST-0404,Consumer
+CUST-0089,Consumer
+CUST-0384,Corporate
+CUST-0386,Consumer
+CUST-0252,Consumer
+CUST-0420,Consumer
+CUST-0361,Consumer
+CUST-0448,Consumer
+CUST-0437,Small Business
+CUST-0185,Consumer
+CUST-0190,Consumer
+CUST-0230,Corporate
+CUST-0378,Small Business
+CUST-0170,Consumer
+CUST-0306,Consumer
+CUST-0236,Corporate
+CUST-0193,Consumer
+CUST-0202,Corporate
+CUST-0414,Corporate
+CUST-0364,Consumer
+CUST-0118,Small Business
+CUST-0153,Consumer
+CUST-0076,Corporate
+CUST-0180,Consumer
+CUST-0377,Consumer
+CUST-0383,Corporate
+CUST-0294,Consumer
+CUST-0102,Corporate
+CUST-0321,Small Business
+CUST-0111,Consumer
+CUST-0408,Consumer
+CUST-0471,Consumer
+CUST-0073,Consumer
+CUST-0457,Corporate
+CUST-0391,Consumer
+CUST-0485,Corporate
+CUST-0013,Corporate
+CUST-0021,Corporate
+CUST-0226,Consumer
+CUST-0472,Consumer
+CUST-0334,Consumer
+CUST-0145,Consumer
+CUST-0412,Consumer
+CUST-0053,Consumer
+CUST-0288,Corporate
+CUST-0373,Consumer
+CUST-0128,Small Business
+CUST-0197,Corporate
+CUST-0086,Consumer
+CUST-0279,Corporate
+CUST-0447,Consumer
+CUST-0017,Corporate
+CUST-0263,Small Business
+CUST-0068,Corporate
+CUST-0193,Corporate
+CUST-0111,Corporate
+CUST-0394,Consumer
+CUST-0191,Corporate
+CUST-0208,Consumer
+CUST-0311,Consumer
+CUST-0081,Consumer
+CUST-0074,Small Business
+CUST-0192,Small Business
+CUST-0353,Consumer
+CUST-0500,Corporate
+CUST-0298,Consumer
+CUST-0494,Consumer
+CUST-0077,Consumer
+CUST-0399,Consumer
+CUST-0235,Corporate
+CUST-0307,Consumer
+CUST-0396,Corporate
+CUST-0415,Corporate
+CUST-0147,Small Business
+CUST-0395,Corporate
+CUST-0190,Small Business
+CUST-0123,Corporate
+CUST-0408,Corporate
+CUST-0330,Consumer
+CUST-0426,Consumer
+CUST-0480,Consumer
+CUST-0166,Corporate
+CUST-0050,Corporate
+CUST-0499,Small Business
+CUST-0072,Consumer
+CUST-0246,Consumer
+CUST-0459,Consumer
+CUST-0396,Consumer
+CUST-0380,Corporate
+CUST-0260,Consumer
+CUST-0460,Small Business
+CUST-0136,Corporate
+CUST-0036,Small Business
+CUST-0321,Consumer
+CUST-0290,Consumer
+CUST-0128,Corporate
+CUST-0274,Consumer
+CUST-0354,Consumer
+CUST-0079,Corporate
+CUST-0020,Corporate
+CUST-0293,Consumer
+CUST-0428,Consumer
+CUST-0488,Corporate
+CUST-0262,Consumer
+CUST-0256,Consumer
+CUST-0330,Small Business
+CUST-0001,Consumer
+CUST-0004,Consumer
+CUST-0001,Corporate
+CUST-0055,Small Business
+CUST-0443,Consumer
+CUST-0453,Small Business
+CUST-0154,Corporate
+CUST-0201,Corporate
+CUST-0403,Consumer
+CUST-0468,Corporate
+CUST-0302,Corporate
+CUST-0335,Consumer
+CUST-0295,Consumer
+CUST-0026,Consumer
+CUST-0159,Consumer
+CUST-0121,Consumer
+CUST-0093,Consumer
+CUST-0376,Small Business
+CUST-0031,Small Business
+CUST-0427,Corporate
+CUST-0410,Small Business
+CUST-0046,Consumer
+CUST-0233,Small Business
+CUST-0030,Small Business
+CUST-0397,Consumer
+CUST-0263,Consumer
+CUST-0282,Consumer
+CUST-0011,Corporate
+CUST-0216,Corporate
+CUST-0362,Consumer
+CUST-0146,Corporate
+CUST-0302,Consumer
+CUST-0475,Consumer
+CUST-0488,Consumer
+CUST-0463,Consumer
+CUST-0188,Consumer
+CUST-0198,Consumer
+CUST-0104,Consumer
+CUST-0249,Consumer
+CUST-0035,Consumer
+CUST-0173,Consumer
+CUST-0102,Consumer
+CUST-0036,Consumer
+CUST-0008,Consumer
+CUST-0275,Consumer
+CUST-0474,Consumer
+CUST-0130,Consumer
+CUST-0147,Consumer
+CUST-0141,Consumer
+CUST-0325,Corporate
+CUST-0270,Small Business
+CUST-0357,Corporate
+CUST-0295,Small Business
+CUST-0016,Corporate
+CUST-0269,Corporate
+CUST-0327,Small Business
+CUST-0088,Corporate
+CUST-0225,Corporate
+CUST-0279,Consumer
+CUST-0098,Small Business
+CUST-0479,Corporate
+CUST-0004,Small Business
+CUST-0261,Small Business
+CUST-0413,Consumer
+CUST-0051,Consumer
+CUST-0064,Corporate
+CUST-0092,Small Business
+CUST-0122,Corporate
+CUST-0161,Consumer
+CUST-0381,Corporate
+CUST-0374,Consumer
+CUST-0027,Consumer
+CUST-0416,Consumer
+CUST-0439,Corporate
+CUST-0327,Consumer
+CUST-0164,Small Business
+CUST-0324,Corporate
+CUST-0310,Corporate
+CUST-0387,Consumer
+CUST-0495,Corporate
+CUST-0138,Corporate
+CUST-0082,Consumer
+CUST-0365,Consumer
+CUST-0338,Consumer
+CUST-0163,Consumer
+CUST-0228,Small Business
+CUST-0381,Consumer
+CUST-0200,Small Business
+CUST-0067,Corporate
+CUST-0284,Consumer
+CUST-0455,Consumer
+CUST-0220,Corporate
+CUST-0484,Consumer
+CUST-0215,Corporate
+CUST-0206,Corporate
+CUST-0167,Small Business
+CUST-0044,Consumer
+CUST-0332,Consumer
+CUST-0346,Consumer
+CUST-0401,Corporate
+CUST-0119,Consumer
+CUST-0005,Consumer
+CUST-0112,Corporate
+CUST-0220,Consumer
+CUST-0146,Small Business
+CUST-0305,Small Business
+CUST-0100,Consumer
+CUST-0500,Consumer
+CUST-0257,Consumer
+CUST-0207,Corporate
+CUST-0278,Consumer
+CUST-0464,Consumer
+CUST-0251,Corporate
+CUST-0418,Consumer
+CUST-0002,Small Business
+CUST-0025,Consumer
+CUST-0434,Corporate
+CUST-0010,Consumer
+CUST-0222,Small Business
+CUST-0438,Corporate
+CUST-0025,Small Business
+CUST-0379,Consumer
+CUST-0057,Consumer
+CUST-0292,Corporate
+CUST-0074,Corporate
+CUST-0388,Consumer
+CUST-0035,Corporate
+CUST-0465,Consumer
+CUST-0476,Small Business
+CUST-0390,Consumer
+CUST-0365,Corporate
+CUST-0235,Consumer
+CUST-0323,Consumer
+CUST-0046,Corporate
+CUST-0266,Consumer
+CUST-0065,Consumer
+CUST-0441,Consumer
+CUST-0483,Consumer
+CUST-0085,Consumer
+CUST-0154,Consumer
+CUST-0149,Corporate
+CUST-0486,Consumer
+CUST-0152,Consumer
+CUST-0492,Consumer
+CUST-0285,Corporate
+CUST-0458,Small Business
+CUST-0029,Consumer
+CUST-0368,Consumer
+CUST-0132,Corporate
+CUST-0291,Corporate
+CUST-0456,Consumer
+CUST-0062,Consumer
+CUST-0452,Small Business
+CUST-0326,Corporate
+CUST-0307,Corporate
+CUST-0072,Corporate
+CUST-0440,Consumer
+CUST-0260,Corporate
+CUST-0353,Corporate
+CUST-0151,Corporate
+CUST-0344,Consumer
+CUST-0437,Consumer
+CUST-0304,Corporate
+CUST-0131,Consumer
+CUST-0059,Consumer
+CUST-0318,Consumer
+CUST-0399,Corporate
+CUST-0410,Consumer
+CUST-0120,Consumer
+CUST-0378,Corporate
+CUST-0022,Small Business
+CUST-0328,Consumer
+CUST-0079,Consumer
+CUST-0076,Consumer
+CUST-0197,Small Business
+CUST-0244,Consumer
+CUST-0313,Corporate
+CUST-0246,Corporate
+CUST-0033,Small Business
+CUST-0490,Consumer
+CUST-0194,Corporate
+CUST-0479,Consumer
+CUST-0354,Corporate
+CUST-0360,Consumer
+CUST-0267,Corporate
+CUST-0243,Corporate
+CUST-0211,Consumer
+CUST-0469,Consumer
+CUST-0326,Consumer
+CUST-0038,Corporate
+CUST-0355,Consumer
+CUST-0301,Consumer
+CUST-0125,Consumer
+CUST-0345,Consumer
+CUST-0352,Consumer
+CUST-0232,Small Business
+CUST-0101,Corporate
+CUST-0407,Corporate
+CUST-0069,Consumer
+CUST-0288,Consumer
+CUST-0357,Small Business
+CUST-0434,Consumer
+CUST-0174,Small Business
+CUST-0152,Small Business
+CUST-0042,Consumer
+CUST-0372,Small Business
+CUST-0115,Corporate
+CUST-0450,Corporate
+CUST-0006,Consumer
+CUST-0134,Small Business
+CUST-0350,Consumer
+CUST-0194,Consumer
+CUST-0213,Corporate
+CUST-0423,Consumer
+CUST-0229,Consumer
+CUST-0238,Consumer
+CUST-0079,Small Business
+CUST-0225,Consumer
+CUST-0289,Small Business
+CUST-0166,Consumer
+CUST-0196,Consumer
+CUST-0424,Corporate
+CUST-0080,Corporate
+CUST-0395,Consumer
+CUST-0315,Consumer
+CUST-0474,Corporate
+CUST-0186,Small Business
+CUST-0455,Corporate
+CUST-0029,Small Business
+CUST-0464,Small Business
+CUST-0146,Consumer
+CUST-0204,Corporate
+CUST-0478,Corporate
+CUST-0165,Consumer
+CUST-0326,Small Business
+CUST-0153,Corporate
+CUST-0301,Corporate
+CUST-0011,Consumer
+CUST-0347,Consumer
+CUST-0312,Consumer
+CUST-0424,Small Business
+CUST-0179,Corporate
+CUST-0370,Small Business
+CUST-0094,Small Business
+CUST-0164,Consumer
+CUST-0214,Small Business
+CUST-0066,Consumer
+CUST-0176,Corporate
+CUST-0113,Small Business
+CUST-0385,Consumer
+CUST-0106,Small Business
+CUST-0459,Corporate
+CUST-0245,Consumer
+CUST-0300,Consumer
+CUST-0251,Small Business
+CUST-0302,Small Business
+CUST-0030,Corporate
+CUST-0458,Consumer
+CUST-0160,Small Business
+CUST-0016,Consumer
+CUST-0410,Corporate
+CUST-0212,Corporate
+CUST-0499,Consumer
+CUST-0218,Consumer
+CUST-0099,Consumer
+CUST-0328,Corporate
+CUST-0254,Consumer
+CUST-0429,Consumer
+CUST-0382,Corporate
+CUST-0357,Consumer
+CUST-0098,Corporate
+CUST-0439,Consumer
+CUST-0137,Consumer
+CUST-0268,Corporate
+CUST-0180,Corporate
+CUST-0493,Small Business
+CUST-0149,Consumer
+CUST-0084,Small Business
+CUST-0071,Consumer
+CUST-0319,Small Business
+CUST-0281,Consumer
+CUST-0280,Consumer
+CUST-0483,Corporate
+CUST-0296,Consumer
+CUST-0086,Corporate
+CUST-0324,Consumer
+CUST-0213,Consumer
+CUST-0148,Corporate
+CUST-0189,Consumer
+CUST-0142,Consumer
+CUST-0257,Small Business
+CUST-0196,Corporate
+CUST-0335,Corporate
+CUST-0215,Small Business
+CUST-0156,Corporate
+CUST-0116,Small Business
+CUST-0030,Consumer
+CUST-0198,Corporate
+CUST-0184,Small Business
+CUST-0372,Corporate
+CUST-0019,Corporate
+CUST-0096,Corporate
+CUST-0082,Corporate
+CUST-0211,Corporate
+CUST-0249,Small Business
+CUST-0343,Small Business
+CUST-0141,Corporate
+CUST-0471,Small Business
+CUST-0460,Consumer
+CUST-0010,Small Business
+CUST-0010,Corporate
+CUST-0305,Corporate
+CUST-0153,Small Business
+CUST-0263,Corporate
+CUST-0269,Consumer
+CUST-0078,Corporate
+CUST-0034,Corporate
+CUST-0139,Consumer
+CUST-0402,Small Business
+CUST-0112,Consumer
+CUST-0005,Corporate
+CUST-0298,Corporate
+CUST-0052,Consumer
+CUST-0412,Small Business
+CUST-0033,Corporate
+CUST-0090,Corporate
+CUST-0196,Small Business
+CUST-0107,Consumer
+CUST-0275,Small Business
+CUST-0361,Corporate
+CUST-0451,Corporate
+CUST-0374,Small Business
+CUST-0285,Small Business
+CUST-0091,Consumer
+CUST-0124,Consumer
+CUST-0070,Consumer
+CUST-0291,Small Business
+CUST-0161,Corporate
+CUST-0181,Corporate
+CUST-0183,Corporate
+CUST-0481,Corporate
+CUST-0368,Corporate
+CUST-0176,Consumer
+CUST-0433,Consumer
+CUST-0482,Consumer
+CUST-0164,Corporate
+CUST-0397,Corporate
+CUST-0247,Consumer
+CUST-0172,Small Business
+CUST-0057,Small Business
+CUST-0434,Small Business
+CUST-0185,Small Business
+CUST-0003,Small Business
+CUST-0254,Corporate
+CUST-0224,Corporate
+CUST-0210,Corporate
+CUST-0423,Small Business
+CUST-0179,Small Business
+CUST-0102,Small Business
+CUST-0228,Consumer
+CUST-0150,Consumer
+CUST-0334,Small Business
+CUST-0042,Corporate
+CUST-0320,Small Business
+CUST-0052,Corporate
+CUST-0319,Consumer
+CUST-0026,Corporate
+CUST-0351,Small Business
+CUST-0249,Corporate
+CUST-0371,Small Business
+CUST-0296,Small Business
+CUST-0429,Corporate
+CUST-0133,Consumer
+CUST-0121,Small Business
+CUST-0126,Corporate
+CUST-0060,Corporate
+CUST-0108,Consumer
+CUST-0009,Corporate
+CUST-0346,Corporate
+CUST-0088,Consumer
+CUST-0020,Consumer
+CUST-0347,Corporate
+CUST-0160,Consumer
+CUST-0398,Small Business
+CUST-0384,Consumer
+CUST-0224,Consumer
+CUST-0053,Corporate
+CUST-0187,Consumer
+CUST-0091,Small Business
+CUST-0440,Small Business
+CUST-0262,Corporate
+CUST-0258,Corporate
+CUST-0187,Small Business
+CUST-0037,Consumer
+CUST-0440,Corporate
+CUST-0437,Corporate
+CUST-0402,Corporate
+CUST-0264,Corporate
+CUST-0396,Small Business
+CUST-0349,Corporate
+CUST-0336,Small Business
+CUST-0118,Corporate
+CUST-0342,Consumer
+CUST-0464,Corporate
+CUST-0002,Consumer
+CUST-0487,Consumer
+CUST-0118,Consumer
+CUST-0127,Consumer
+CUST-0454,Small Business
+CUST-0348,Corporate
+CUST-0463,Corporate
+CUST-0169,Consumer
+CUST-0389,Corporate
+CUST-0032,Consumer
+CUST-0366,Small Business
+CUST-0495,Consumer
+CUST-0409,Consumer
+CUST-0497,Consumer
+CUST-0035,Small Business
+CUST-0018,Corporate
+CUST-0355,Corporate
+CUST-0341,Small Business
+CUST-0108,Corporate
+CUST-0262,Small Business
+CUST-0151,Consumer
+CUST-0436,Consumer
+CUST-0329,Corporate
+CUST-0359,Small Business
+CUST-0363,Consumer
+CUST-0182,Consumer
+CUST-0482,Corporate
+CUST-0457,Consumer
+CUST-0370,Consumer
+CUST-0436,Small Business
+CUST-0116,Consumer
+CUST-0097,Small Business
+CUST-0340,Consumer
+CUST-0359,Consumer
+CUST-0403,Small Business
+CUST-0331,Consumer
+CUST-0039,Corporate
+CUST-0028,Corporate
+CUST-0272,Consumer
+CUST-0256,Corporate
+CUST-0442,Corporate
+CUST-0230,Consumer
+CUST-0134,Corporate
+CUST-0184,Consumer
+CUST-0145,Corporate
+CUST-0041,Small Business
+CUST-0350,Corporate
+CUST-0062,Corporate
+CUST-0008,Corporate
+CUST-0364,Corporate
+CUST-0056,Corporate
+CUST-0095,Corporate
+CUST-0192,Consumer
+CUST-0337,Corporate
+CUST-0071,Small Business
+CUST-0282,Small Business
+CUST-0252,Corporate
+CUST-0176,Small Business
+CUST-0284,Corporate
+CUST-0075,Consumer
+CUST-0325,Small Business
+CUST-0221,Consumer
+CUST-0268,Consumer
+CUST-0002,Corporate
+CUST-0140,Small Business
+CUST-0493,Corporate
+CUST-0444,Consumer
+CUST-0093,Small Business
+CUST-0088,Small Business
+CUST-0329,Consumer
+CUST-0061,Consumer
+CUST-0163,Corporate
+CUST-0279,Small Business
+CUST-0248,Consumer
+CUST-0305,Consumer
+CUST-0195,Consumer
+CUST-0476,Consumer
+CUST-0312,Corporate
+CUST-0125,Small Business
+CUST-0112,Small Business
+CUST-0452,Consumer
+CUST-0453,Consumer
+CUST-0223,Small Business
+CUST-0091,Corporate
+CUST-0245,Small Business
+CUST-0210,Consumer
+CUST-0215,Consumer
+CUST-0449,Consumer
+CUST-0095,Consumer
+CUST-0191,Consumer
+CUST-0189,Corporate
+CUST-0264,Small Business
+CUST-0334,Corporate
+CUST-0114,Consumer
+CUST-0479,Small Business
+CUST-0100,Corporate
+CUST-0034,Consumer
+CUST-0047,Consumer
+CUST-0373,Small Business
+CUST-0119,Corporate
+CUST-0426,Corporate
+CUST-0117,Consumer
+CUST-0461,Consumer
+CUST-0423,Corporate
+CUST-0039,Consumer
+CUST-0293,Small Business
+CUST-0031,Corporate
+CUST-0162,Corporate
+CUST-0258,Consumer
+CUST-0101,Small Business
+CUST-0250,Corporate
+CUST-0178,Consumer
+CUST-0284,Small Business
+CUST-0391,Corporate
+CUST-0171,Consumer
+CUST-0474,Small Business
+CUST-0105,Corporate
+CUST-0177,Consumer
+CUST-0291,Consumer
+CUST-0274,Corporate
+CUST-0115,Consumer
+CUST-0489,Consumer
+CUST-0021,Small Business
+CUST-0362,Corporate
+CUST-0318,Small Business
+CUST-0498,Small Business
+CUST-0485,Consumer
+CUST-0060,Small Business
+CUST-0028,Consumer
+CUST-0175,Consumer
+CUST-0393,Corporate
+CUST-0012,Consumer
+CUST-0022,Consumer
+CUST-0370,Corporate
+CUST-0278,Small Business
+CUST-0119,Small Business
+CUST-0379,Corporate
+CUST-0006,Corporate
+CUST-0424,Consumer
+CUST-0421,Consumer
+CUST-0252,Small Business
+CUST-0027,Corporate
+CUST-0487,Small Business
+CUST-0421,Corporate
+CUST-0344,Corporate
+CUST-0139,Small Business
+CUST-0300,Corporate
+CUST-0167,Corporate
+CUST-0389,Small Business
+CUST-0223,Consumer
+CUST-0236,Consumer
+CUST-0318,Corporate
+CUST-0195,Corporate
+CUST-0110,Consumer
+CUST-0343,Corporate
+CUST-0134,Consumer
+CUST-0101,Consumer
+CUST-0408,Small Business
+CUST-0122,Small Business
+CUST-0022,Corporate
+CUST-0420,Corporate
+CUST-0144,Small Business
+CUST-0356,Corporate
+CUST-0419,Corporate
+CUST-0167,Consumer
+CUST-0292,Consumer
+CUST-0371,Corporate
+CUST-0057,Corporate
+CUST-0096,Small Business
+CUST-0250,Consumer
+CUST-0411,Corporate
+CUST-0289,Consumer
+CUST-0221,Small Business
+CUST-0264,Consumer
+CUST-0229,Small Business
+CUST-0390,Corporate
+CUST-0447,Small Business
+CUST-0238,Corporate
+CUST-0331,Small Business
+CUST-0025,Corporate
+CUST-0233,Consumer
+CUST-0050,Consumer
+CUST-0341,Consumer
+CUST-0131,Corporate
+CUST-0034,Small Business
+CUST-0405,Corporate
+CUST-0283,Corporate
+CUST-0063,Small Business
+CUST-0188,Corporate
+CUST-0064,Consumer
+CUST-0271,Corporate
+CUST-0376,Consumer
+CUST-0055,Corporate
+CUST-0242,Corporate
+CUST-0014,Corporate
+CUST-0090,Consumer
+CUST-0003,Corporate
+CUST-0500,Small Business
+CUST-0218,Small Business
+CUST-0157,Corporate
+CUST-0380,Consumer
+CUST-0240,Consumer
+CUST-0450,Consumer
+CUST-0466,Consumer
+CUST-0285,Consumer
+CUST-0360,Corporate
+CUST-0280,Corporate
+CUST-0265,Consumer
+CUST-0354,Small Business
+CUST-0313,Consumer
+CUST-0051,Corporate
+CUST-0324,Small Business
+CUST-0435,Consumer
+CUST-0465,Corporate
+CUST-0087,Corporate
+CUST-0130,Small Business
+CUST-0143,Consumer
+CUST-0093,Corporate
+CUST-0342,Corporate
+CUST-0139,Corporate
+CUST-0239,Corporate
+CUST-0190,Corporate
+CUST-0169,Corporate
+CUST-0183,Small Business
+CUST-0058,Corporate
+CUST-0019,Consumer
+CUST-0055,Consumer
+CUST-0166,Small Business
+CUST-0184,Corporate
+CUST-0008,Small Business
+CUST-0044,Corporate
+CUST-0136,Small Business
+CUST-0080,Consumer
+CUST-0111,Small Business
+CUST-0323,Corporate
+CUST-0227,Corporate
+CUST-0465,Small Business
+CUST-0473,Corporate
+CUST-0067,Consumer
+CUST-0232,Consumer
+CUST-0083,Small Business
+CUST-0448,Corporate
+CUST-0430,Small Business
+CUST-0208,Small Business
+CUST-0029,Corporate
+CUST-0125,Corporate
+CUST-0367,Consumer
+CUST-0359,Corporate
+CUST-0158,Small Business
+CUST-0303,Consumer
+CUST-0466,Corporate
+CUST-0097,Consumer
+CUST-0244,Corporate
+CUST-0382,Consumer
+CUST-0126,Consumer
+CUST-0250,Small Business
+CUST-0068,Small Business
+CUST-0406,Consumer
+CUST-0243,Small Business
+CUST-0241,Corporate
+CUST-0020,Small Business
+CUST-0040,Corporate
+CUST-0171,Small Business
+CUST-0255,Corporate
+CUST-0212,Consumer
+CUST-0425,Consumer
+CUST-0267,Consumer
+CUST-0114,Corporate
+CUST-0270,Corporate
+CUST-0484,Corporate
+CUST-0107,Small Business
+CUST-0219,Corporate
+CUST-0381,Small Business
+CUST-0339,Corporate
+CUST-0136,Consumer
+CUST-0194,Small Business
+CUST-0175,Corporate
+CUST-0109,Consumer
+CUST-0179,Consumer
+CUST-0042,Small Business
+CUST-0387,Corporate
+CUST-0417,Small Business
+CUST-0116,Corporate
+CUST-0398,Consumer
+CUST-0348,Consumer
+CUST-0393,Consumer
+CUST-0231,Consumer
+CUST-0135,Corporate
+CUST-0049,Corporate
+CUST-0175,Small Business
+CUST-0201,Small Business
+CUST-0024,Corporate
+CUST-0012,Corporate
+CUST-0404,Corporate
+CUST-0446,Corporate
+CUST-0456,Small Business
+CUST-0210,Small Business
+CUST-0272,Corporate
+CUST-0275,Corporate
+CUST-0450,Small Business
+CUST-0110,Corporate
+CUST-0172,Corporate
+CUST-0293,Corporate
+CUST-0099,Corporate
+CUST-0142,Corporate
+CUST-0273,Corporate
+CUST-0393,Small Business
+CUST-0178,Small Business
+CUST-0259,Consumer
+CUST-0203,Consumer
+CUST-0083,Corporate
+CUST-0470,Small Business
+CUST-0045,Consumer
+CUST-0497,Small Business
+CUST-0151,Small Business
+CUST-0238,Small Business
+CUST-0217,Corporate
+CUST-0338,Small Business
+CUST-0288,Small Business
+CUST-0225,Small Business
+CUST-0096,Consumer
+CUST-0320,Corporate
+CUST-0097,Corporate
+CUST-0178,Corporate
+CUST-0087,Consumer
+CUST-0463,Small Business
+CUST-0135,Small Business
+CUST-0195,Small Business
+CUST-0160,Corporate
+CUST-0037,Corporate
+CUST-0498,Consumer
+CUST-0499,Corporate
+CUST-0089,Corporate
+CUST-0411,Consumer
+CUST-0454,Consumer
+CUST-0150,Small Business
+CUST-0017,Small Business
+CUST-0192,Corporate
+CUST-0422,Consumer
+CUST-0329,Small Business
+CUST-0310,Small Business
+CUST-0124,Corporate
+CUST-0255,Small Business
+CUST-0237,Corporate
+CUST-0038,Consumer
+CUST-0006,Small Business
+CUST-0467,Consumer
+CUST-0306,Small Business
+CUST-0163,Small Business
+CUST-0492,Corporate
+CUST-0301,Small Business
+CUST-0248,Small Business
+CUST-0056,Small Business
+CUST-0015,Corporate
+CUST-0373,Corporate
+CUST-0032,Small Business
+CUST-0351,Corporate
+CUST-0287,Consumer
+CUST-0358,Corporate
+CUST-0045,Small Business
+CUST-0213,Small Business
+CUST-0366,Consumer
+CUST-0040,Consumer
+CUST-0261,Corporate
+CUST-0220,Small Business
+CUST-0105,Small Business
+CUST-0321,Corporate
+CUST-0094,Corporate
+CUST-0241,Small Business
+CUST-0026,Small Business
+CUST-0051,Small Business
+CUST-0202,Small Business
+CUST-0478,Consumer
+CUST-0243,Consumer
+CUST-0209,Corporate
+CUST-0231,Small Business
+CUST-0259,Corporate
+CUST-0332,Small Business
+CUST-0409,Corporate
+CUST-0347,Small Business
+CUST-0053,Small Business
+CUST-0491,Consumer
+CUST-0312,Small Business
+CUST-0351,Consumer
+CUST-0444,Corporate
+CUST-0308,Consumer
+CUST-0265,Corporate
+CUST-0211,Small Business
+CUST-0427,Consumer
+CUST-0441,Small Business
+CUST-0103,Corporate
+CUST-0481,Consumer
+CUST-0494,Corporate
+CUST-0314,Small Business
+CUST-0202,Consumer
+CUST-0205,Consumer
+CUST-0212,Small Business
+CUST-0248,Corporate
+CUST-0286,Small Business
+CUST-0063,Consumer
+CUST-0004,Corporate
+CUST-0431,Small Business
+CUST-0387,Small Business
+CUST-0460,Corporate
+CUST-0484,Small Business
+CUST-0036,Corporate
+CUST-0159,Small Business
+CUST-0108,Small Business
+CUST-0223,Corporate
+CUST-0298,Small Business
+CUST-0490,Small Business
+CUST-0031,Consumer
+CUST-0259,Small Business
+CUST-0182,Small Business
+CUST-0200,Corporate
+CUST-0273,Consumer
+CUST-0392,Corporate
+CUST-0352,Corporate
+CUST-0415,Small Business
+CUST-0299,Consumer
+CUST-0206,Small Business
+CUST-0276,Consumer
+CUST-0337,Consumer
+CUST-0488,Small Business
+CUST-0487,Corporate
+CUST-0360,Small Business
+CUST-0200,Consumer
+CUST-0129,Corporate
+CUST-0193,Small Business
+CUST-0400,Corporate
+CUST-0435,Small Business
+CUST-0459,Small Business
+CUST-0037,Small Business
+CUST-0304,Consumer
+CUST-0344,Small Business
+CUST-0407,Consumer
+CUST-0076,Small Business
+CUST-0204,Small Business
+CUST-0069,Small Business
+CUST-0242,Consumer
+CUST-0231,Corporate
+CUST-0338,Corporate
+CUST-0074,Consumer
+CUST-0001,Small Business
+CUST-0217,Small Business
+CUST-0132,Consumer
+CUST-0113,Consumer
+CUST-0067,Small Business
+CUST-0367,Small Business
+CUST-0455,Small Business
+CUST-0494,Small Business
+CUST-0286,Corporate
+CUST-0007,Small Business
+CUST-0300,Small Business
+CUST-0214,Corporate
+CUST-0431,Consumer
+CUST-0233,Corporate
+CUST-0363,Small Business
+CUST-0041,Consumer
+CUST-0027,Small Business
+CUST-0394,Small Business
+CUST-0216,Small Business
+CUST-0107,Corporate
+CUST-0411,Small Business
+CUST-0358,Small Business
+CUST-0390,Small Business
+CUST-0244,Small Business
+CUST-0121,Corporate
+CUST-0369,Consumer
+CUST-0418,Corporate
+CUST-0047,Corporate
+CUST-0147,Corporate
+CUST-0491,Corporate
+CUST-0274,Small Business
+CUST-0307,Small Business
+CUST-0161,Small Business
+CUST-0401,Small Business
+CUST-0133,Small Business
+CUST-0443,Corporate
+CUST-0403,Corporate
+CUST-0032,Corporate
+CUST-0180,Small Business
+CUST-0472,Small Business
+CUST-0386,Corporate
+CUST-0385,Corporate
+CUST-0442,Small Business
+CUST-0061,Corporate
+CUST-0289,Corporate
+CUST-0418,Small Business
+CUST-0323,Small Business
+CUST-0315,Small Business
+CUST-0170,Corporate
+CUST-0392,Small Business
+CUST-0246,Small Business
+CUST-0409,Small Business
+CUST-0127,Small Business
+CUST-0174,Corporate
+CUST-0050,Small Business
+CUST-0205,Corporate
+CUST-0218,Corporate
+CUST-0432,Consumer
+CUST-0339,Small Business
+CUST-0482,Small Business
+CUST-0009,Consumer
+CUST-0094,Consumer
+CUST-0062,Small Business
+CUST-0473,Small Business
+CUST-0414,Small Business
+CUST-0103,Consumer
+CUST-0405,Small Business
+CUST-0113,Corporate
+CUST-0266,Small Business
+CUST-0214,Consumer
+CUST-0061,Small Business
+CUST-0154,Small Business
+CUST-0364,Small Business
+CUST-0092,Consumer
+CUST-0332,Corporate
+CUST-0461,Corporate
+CUST-0129,Small Business
+CUST-0295,Corporate
+CUST-0311,Small Business
+CUST-0431,Corporate
+CUST-0299,Corporate
+CUST-0028,Small Business
+CUST-0188,Small Business
+CUST-0078,Small Business
+CUST-0043,Corporate
+CUST-0033,Consumer
+CUST-0384,Small Business
+CUST-0189,Small Business
+CUST-0168,Consumer
+CUST-0413,Small Business
+CUST-0237,Small Business
+CUST-0075,Small Business
+CUST-0168,Small Business
+CUST-0272,Small Business
+CUST-0445,Corporate
+CUST-0473,Consumer
+CUST-0453,Corporate
+CUST-0333,Small Business
+CUST-0471,Corporate
+CUST-0155,Consumer
+CUST-0309,Small Business
+CUST-0470,Consumer
+CUST-0110,Small Business
+CUST-0156,Small Business
+CUST-0483,Small Business
+CUST-0433,Corporate
+CUST-0069,Corporate
+CUST-0439,Small Business
+CUST-0398,Corporate
+CUST-0489,Small Business
+CUST-0239,Small Business
+CUST-0406,Corporate
+CUST-0413,Corporate
+CUST-0314,Corporate
+CUST-0095,Small Business
+CUST-0059,Small Business
+CUST-0065,Small Business
+CUST-0172,Consumer
+CUST-0322,Corporate
+CUST-0016,Small Business
+CUST-0294,Small Business
+CUST-0454,Corporate
+CUST-0317,Corporate
+CUST-0449,Small Business
+CUST-0345,Corporate
+CUST-0421,Small Business
+CUST-0290,Small Business
+CUST-0366,Corporate
+CUST-0486,Corporate
+CUST-0419,Small Business
+CUST-0345,Small Business
+CUST-0137,Corporate
+CUST-0375,Small Business
+CUST-0168,Corporate
+CUST-0064,Small Business
+CUST-0109,Small Business
+CUST-0441,Corporate
+CUST-0446,Small Business
+CUST-0012,Small Business
+CUST-0427,Small Business
+CUST-0481,Small Business
+CUST-0355,Small Business
+CUST-0063,Corporate
+CUST-0336,Corporate
+CUST-0017,Consumer
+CUST-0058,Small Business
+CUST-0292,Small Business
+CUST-0023,Corporate
+CUST-0245,Corporate
+CUST-0005,Small Business
+CUST-0224,Small Business
+CUST-0377,Small Business
+CUST-0133,Corporate
+CUST-0376,Corporate
+CUST-0126,Small Business
+CUST-0472,Corporate
+CUST-0477,Corporate
+CUST-0322,Small Business
+CUST-0236,Small Business
+CUST-0361,Small Business
+CUST-0449,Corporate
+CUST-0253,Corporate
+CUST-0316,Small Business
+CUST-0480,Small Business
+CUST-0349,Small Business
+CUST-0327,Corporate
+CUST-0391,Small Business
+CUST-0165,Corporate
+CUST-0297,Consumer
+CUST-0072,Small Business
+CUST-0333,Corporate
+CUST-0406,Small Business
+CUST-0495,Small Business
+CUST-0369,Corporate
+CUST-0330,Corporate
+CUST-0308,Corporate
+CUST-0480,Corporate
+CUST-0149,Small Business
+CUST-0242,Small Business
+CUST-0045,Corporate
+CUST-0135,Consumer
+CUST-0105,Consumer
+CUST-0142,Small Business
+CUST-0066,Small Business
+CUST-0024,Small Business
+CUST-0054,Corporate
+CUST-0247,Small Business
+CUST-0436,Corporate
+CUST-0407,Small Business
+CUST-0477,Small Business
+CUST-0303,Corporate
+CUST-0011,Small Business
+CUST-0234,Consumer
+CUST-0075,Corporate
+CUST-0234,Corporate
+CUST-0014,Small Business
+CUST-0388,Small Business
+CUST-0240,Corporate
+CUST-0099,Small Business
+CUST-0271,Small Business
+CUST-0287,Corporate
+CUST-0297,Corporate
+CUST-0041,Corporate
+CUST-0132,Small Business
+CUST-0348,Small Business
+CUST-0282,Corporate
+CUST-0123,Small Business
+CUST-0143,Small Business
+CUST-0294,Corporate
+CUST-0331,Corporate
+CUST-0258,Small Business
+CUST-0283,Small Business
+CUST-0385,Small Business
+CUST-0377,Corporate
+CUST-0106,Corporate
+CUST-0303,Small Business
+CUST-0013,Small Business
+CUST-0120,Corporate
+CUST-0280,Small Business
+CUST-0394,Corporate
+CUST-0085,Corporate
+CUST-0141,Small Business
+CUST-0209,Small Business
+CUST-0462,Small Business
+CUST-0052,Small Business
+CUST-0430,Corporate
+CUST-0428,Small Business
+CUST-0137,Small Business
+CUST-0356,Small Business
+CUST-0340,Corporate
+CUST-0469,Small Business
+CUST-0084,Corporate
+CUST-0054,Small Business
+CUST-0187,Corporate
+CUST-0232,Corporate
+CUST-0266,Corporate
+CUST-0277,Corporate
+CUST-0379,Small Business
+CUST-0335,Small Business
+CUST-0313,Small Business
+CUST-0353,Small Business
+CUST-0081,Corporate
+CUST-0462,Corporate
+CUST-0461,Small Business
+CUST-0478,Small Business
+CUST-0085,Small Business
+CUST-0352,Small Business
+CUST-0369,Small Business
+CUST-0173,Small Business
+CUST-0117,Small Business
+CUST-0104,Corporate
+CUST-0340,Small Business
+CUST-0416,Small Business
+CUST-0087,Small Business
+CUST-0458,Corporate
+CUST-0451,Small Business
+CUST-0438,Small Business
+CUST-0273,Small Business
+CUST-0071,Corporate
+CUST-0486,Small Business
+CUST-0227,Small Business
+CUST-0182,Corporate
+CUST-0219,Small Business
+CUST-0492,Small Business
+CUST-0468,Small Business
+CUST-0425,Small Business
